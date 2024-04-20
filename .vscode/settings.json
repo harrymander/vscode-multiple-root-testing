@@ -1,0 +1,7 @@
+{
+  "cmake.configureOnOpen": false,
+  "cmake.sourceDirectory": [
+    "${workspaceFolder}/gtest1",
+    "${workspaceFolder}/gtest2"
+  ]
+}
