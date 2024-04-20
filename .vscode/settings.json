@@ -3,5 +3,6 @@
   "cmake.sourceDirectory": [
     "${workspaceFolder}/gtest",
     "${workspaceFolder}/other"
-  ]
+  ],
+  "cmake.loggingLevel": "debug"
 }
